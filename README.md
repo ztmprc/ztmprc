@@ -5,8 +5,8 @@
 | When?      | What? | Where?   |
 | :---:        |    :----:   |          :---: |
 | 2013-2016      | Middle School      | Jinan, Shandong, China  |
-| 2016-2019   | A Level        | Rendcomb College, UK      |
-| 2019-2022   | BSc Mathematics and Computer Science        | University of Birmingham, UK      |
+| 2016-2019   | A Level: A* Maths, A Physics        | Rendcomb College, UK      |
+| 2019-2022   | BSc Maths and Computer Science: 2:1 Honours        | University of Birmingham, UK      |
 | 2022-2023   | MSc Transport        | Imperial College London, UK <br> Univercity College London, UK     |
 
 <!---
