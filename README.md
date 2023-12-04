@@ -1,13 +1,6 @@
 - 👋 Hi, I’m @ztmprc
 - 📫 Email: z.tm@outlook.com
-- **Education**
-
-| When      | What | Where   |
-| :---:        |    :----:   |          :---: |
-| 2013-2016      | Middle School      | Jinan, Shandong, China  |
-| 2016-2019   | A Level        | Rendcomb College, UK      |
-| 2019-2022   | BSc (Hons) Maths & CS    | University of Birmingham, UK      |
-| 2022-2023   | MSc Transport        | Imperial College London, UK <br> Univercity College London, UK     |
+- A failed mathematician, speedcuber, philatelist
 
 <!---
 ztmprc/ztmprc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
